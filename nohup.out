@@ -1,0 +1,10 @@
+MESA-INTEL: warning: Haswell Vulkan support is incomplete
+[90m[main 2024-05-25T11:46:25.231Z][0m update#setState disabled
+[90m[main 2024-05-25T11:46:25.247Z][0m update#ctor - updates are disabled as there is no update URL
+[91m[main 2024-05-25T11:46:25.364Z][0m [storage state.vscdb] error checking size of src.vs.platform.reactivestorage.browser.reactiveStorageServiceImpl.persistentStorage.workspaceUser: Error: Unexpected number of rows - 0
+[91m[main 2024-05-25T11:46:25.365Z][0m [storage state.vscdb] error checking size of workbench.panel.aichat.view.aichat.chatdata: Error: Unexpected number of rows - 0
+[91m[main 2024-05-25T11:46:25.381Z][0m [uncaught exception in main]: Error: SQLITE_CANTOPEN: unable to open database file
+[91m[main 2024-05-25T11:46:25.382Z][0m Error: SQLITE_CANTOPEN: unable to open database file
+[2817318:0525/144627.352843:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[2817318:0525/144636.050265:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[2817318:0525/144639.154996:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
